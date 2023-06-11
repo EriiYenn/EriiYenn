@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mel</h1>
 <h3 align="center">A passionate enthusiast in to Crypto and Software Development</h3>
 
-- 🔭 I’m currently working on **Guild CMS system**
+- 🔭 I’m currently working on **CSGO All-in-one Analysis platform**
 
-- 🌱 I’m currently learning **Solidity and Blockchain Contracts**
+- 🌱 I’m currently learning **Large-scale python workflow**
 
-- 💬 Ask me about **python, django**
+- 💬 Ask me about **python, blockchain**
 
 - 📫 How to reach me **chosse.martiny01@gmail.com**
 
-- ⚡ Fun fact... **I am funny ;)**
+- ⚡ Fun fact... **I am funny and hard-working ;)**
 
 
 <h3 align="left">Languages and Tools:</h3>
