@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mel</h1>
 <h3 align="center">A passionate enthusiast in to Crypto and Software Development</h3>
 
-- 🔭 I’m currently working on **CSGO All-in-one Analysis platform**
+- 🔭 I’m currently working on **Something amazing!!**
 
 - 🌱 I’m currently learning **Large-scale python workflow**
 
